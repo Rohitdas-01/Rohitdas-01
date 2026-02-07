@@ -41,15 +41,12 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 - Insight Storytelling  
 - Requirements Gathering (Business Analysis)
 
-### **Data Analysis Skills**
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- KPI Analysis  
-- Hypothesis Testing  
-- Correlation Analysis  
-- Reporting & Dashboard Development  
-- Insight Storytelling  
-- Requirements Gathering (Business Analysis)
+### **Currently Learning**
+- Git & GitHub (Version Control)  
+- Workflow Automation
+- Power BI Service 
+- SQL Query Optimization  
+- Integrating Generative AI into daily workflows  
 
 <br>
 
