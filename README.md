@@ -50,7 +50,7 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 
 <br>
 
-🟣 *“I believe continuous learning is the key to evolving into a better version of myself.”*
+🌱 *“I believe continuous learning is the key to evolving into a better version of myself.”*
  
 ---
 
