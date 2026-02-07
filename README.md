@@ -13,7 +13,7 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Technical Skill Set
 
 ### **Languages & Querying**
 - Python  
@@ -23,27 +23,38 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 ### **Analytics & Visualization**
 - Power BI  
 - Advanced Excel  
-- Matplotlib, Seaborn, Plotly  
+- Matplotlib  
+- Seaborn  
+- Plotly  
 
 ### **Databases**
-- MS SQL Server
+- MS SQL Server  
 - MySQL  
 
-### **Core Analytics Skills**
+### **Data Analysis Skills**
 - Data Cleaning  
 - Exploratory Data Analysis (EDA)  
 - KPI Analysis  
-- Reporting & Dashboarding  
+- Hypothesis Testing  
+- Correlation Analysis  
+- Reporting & Dashboard Development  
 - Insight Storytelling  
-- Requirements Gathering (BA Fundamentals)
+- Requirements Gathering (Business Analysis)
 
-### **Currently Learning**
-- Git & GitHub (Version Control)  
-- Workflow Automation  
-- Power BI Data Modelling  
-- SQL Query Optimization  
-- Integrating Generative AI into daily workflows  
+### **Data Analysis Skills**
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- KPI Analysis  
+- Hypothesis Testing  
+- Correlation Analysis  
+- Reporting & Dashboard Development  
+- Insight Storytelling  
+- Requirements Gathering (Business Analysis)
 
+<br>
+
+🟣 *“I believe continuous learning is the key to evolving into a better version of myself.”*
+ 
 ---
 
 ## 📊 Featured Projects
