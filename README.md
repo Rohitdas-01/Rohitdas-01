@@ -16,9 +16,9 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 ## 💼 Technical Skill Set
 
 ### **Languages & Querying**
-- Python  
-- SQL  
-- DAX  
+- Python
+- SQL
+- DAX
 
 ### **Analytics & Visualization**
 - Power BI  
@@ -75,8 +75,11 @@ Analyzed telecom churn data to uncover drivers of customer attrition and segment
 
 ## 📬 Let’s Connect
 
-📧 **Email:** rohit.41.das@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rohit-das-jsr/
+**<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20px"> Email:**  
+rohit.41.das@gmail.com
+
+**<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px"> LinkedIn:**  
+https://www.linkedin.com/in/rohit-das-jsr/
 
 ---
 
