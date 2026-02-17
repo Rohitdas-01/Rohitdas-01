@@ -29,7 +29,11 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 
 ### **Databases**
 - MS SQL Server  
-- MySQL  
+- MySQL
+
+### **Version Control & Collaboration**
+- Git
+- GitHub
 
 ### **Data Analysis Skills**
 - Data Cleaning  
@@ -42,33 +46,79 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 - Requirements Gathering (Business Analysis)
 
 ### **Currently Learning**
-- Git & GitHub (Version Control)  
 - Workflow Automation
 - Power BI Service 
-- SQL Query Optimization  
-- Integrating Generative AI into daily workflows  
+- SQL Query Optimization
+- AI-powered productivity tools for workflow optimization and time efficiency  
+  
 
 <br>
 
 🌱 *“I believe continuous learning is the key to evolving into a better version of myself.”*
+
+---
  
+## 🚀 Featured Projects  
+*A curated collection of real-world data analytics projects showcasing business insights, dashboards, and decision-driven analysis.*
+
 ---
 
-## 📊 Featured Projects
+### 🧠 **customer-behavior-analysis-python-sql-powerbi**
+📌 *Customer Analytics*  
 
-### 🏅 **Paris Olympics 2024 Dashboard — Power BI**
-Developed a 5-page interactive dashboard showcasing athlete, country, and event performance with clear storytelling.
+Analyzed customer behavior data to generate insights that improve marketing targeting, subscription growth, and sales strategy.
 
-### 🗳️ **India Lok Sabha Election 2024 Analysis — SQL**
-Analyzed 543 constituencies, revealing trends in voting patterns and victory margins.
+---
 
-### 🏦 **Bank Loan Analysis — Excel + SQL**
-Examined 38,600+ loan applications to identify good vs. risky loans and customer risk segments.
+### 🛒 **blinkit-sales-analysis-python-sql-powerbi**
+📦 *Retail & E-commerce Analytics*  
 
-### 📞 **Customer Churn Analysis — Python**
+Analyzed Blinkit’s sales, product demand, and outlet performance to identify key drivers of overall sales.
+
+---
+
+### 🔄 **funnel-analysis-project-python-powerbi**
+📈 *Product & Growth Analytics*  
+
+Examined user behavior across the website funnel to uncover drop-offs and conversion insights using Python and Power BI.
+
+---
+
+### 🗳️ **india-election-result-analysis-sql-powerbi**
+📜 *Political & Public Data Analytics*  
+
+Analyzed 2024 Lok Sabha election results using SQL and Power BI to interpret alliance performance, state trends, and constituency outcomes.
+
+---
+
+### 🏅 **paris-olympics-2024-power-bi-dashboard-project**
+🏃‍♀️ Sports Analytics & Storytelling
+
+Developed a 5-page interactive Power BI dashboard showcasing athlete, country, and event performance with clear storytelling.
+
+---
+
+### 🪔 **diwali-sales-analysis-eda-python**
+🛍️ *Seasonal Sales Analytics* 
+
+EDA on Diwali sales to identify customer trends and high-performing product categories.
+
+---
+
+### 🏦 **bank-loan-analysis-excel-sql**
+💳 *Finance & Risk Analytics*  
+
+Analyzed 38,600+ loan applications to identify good vs. risky loans and customer risk segments.
+
+---
+
+### 📞 **customer-churn-analysis-eda-python**
+📉 *Retention & Churn Analytics*  
+
 Analyzed telecom churn data to uncover drivers of customer attrition and segment-based retention strategies.
 
 ---
+
 
 ## 📬 Let’s Connect
 
@@ -82,7 +132,7 @@ https://www.linkedin.com/in/rohit-das-jsr/
 
 ## 💡 Fun Fact
 
-I enjoy exploring datasets from different domains — elections, sports, finance, customer behavior — which helps me understand markets better and sharpen my analytical thinking.
+I analyze data across **sports**, **finance**, **elections**, and **retail** to spot trends faster and understand different markets.
 
 ---
 
