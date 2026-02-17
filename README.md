@@ -71,7 +71,7 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 ---
 
 ### 🛒 **blinkit-sales-analysis-python-sql-powerbi**
-📦 *Retail & E-commerce Analytics*  
+📦 *Retail & Quick-commerce Analytics*  
 
 - Analyzed Blinkit’s sales, product demand, and outlet performance to identify key drivers of overall sales.
 
