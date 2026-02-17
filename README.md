@@ -66,56 +66,56 @@ Currently strengthening my expertise in **Power BI, SQL, Python, workflow automa
 ### 🧠 **customer-behavior-analysis-python-sql-powerbi**
 📌 *Customer Analytics*  
 
-Analyzed customer behavior data to generate insights that improve marketing targeting, subscription growth, and sales strategy.
+- Analyzed customer behavior data to generate insights that improve marketing targeting, subscription growth, and sales strategy.
 
 ---
 
 ### 🛒 **blinkit-sales-analysis-python-sql-powerbi**
 📦 *Retail & E-commerce Analytics*  
 
-Analyzed Blinkit’s sales, product demand, and outlet performance to identify key drivers of overall sales.
+- Analyzed Blinkit’s sales, product demand, and outlet performance to identify key drivers of overall sales.
 
 ---
 
 ### 🔄 **funnel-analysis-project-python-powerbi**
 📈 *Product & Growth Analytics*  
 
-Examined user behavior across the website funnel to uncover drop-offs and conversion insights using Python and Power BI.
+- Examined user behavior across the website funnel to uncover drop-offs and conversion insights using Python and Power BI.
 
 ---
 
 ### 🗳️ **india-election-result-analysis-sql-powerbi**
 📜 *Political & Public Data Analytics*  
 
-Analyzed 2024 Lok Sabha election results using SQL and Power BI to interpret alliance performance, state trends, and constituency outcomes.
+- Analyzed 2024 Lok Sabha election results using SQL and Power BI to interpret alliance performance, state trends, and constituency outcomes.
 
 ---
 
 ### 🏅 **paris-olympics-2024-power-bi-dashboard-project**
 🏃‍♀️ Sports Analytics & Storytelling
 
-Developed a 5-page interactive Power BI dashboard showcasing athlete, country, and event performance with clear storytelling.
+- Developed a 5-page interactive Power BI dashboard showcasing athlete, country, and event performance with clear storytelling.
 
 ---
 
 ### 🪔 **diwali-sales-analysis-eda-python**
 🛍️ *Seasonal Sales Analytics* 
 
-EDA on Diwali sales to identify customer trends and high-performing product categories.
+- EDA on Diwali sales to identify customer trends and high-performing product categories.
 
 ---
 
 ### 🏦 **bank-loan-analysis-excel-sql**
 💳 *Finance & Risk Analytics*  
 
-Analyzed 38,600+ loan applications to identify good vs. risky loans and customer risk segments.
+- Analyzed 38,600+ loan applications to identify good vs. risky loans and customer risk segments.
 
 ---
 
 ### 📞 **customer-churn-analysis-eda-python**
 📉 *Retention & Churn Analytics*  
 
-Analyzed telecom churn data to uncover drivers of customer attrition and segment-based retention strategies.
+- Analyzed telecom churn data to uncover drivers of customer attrition and segment-based retention strategies.
 
 ---
 
